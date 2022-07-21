@@ -64,6 +64,4 @@ Player_JumpPower:NewSlider("Jump Power", "Jump", 300, 50, function(Value)
 
     end
 end)
---testing
---please work goddamn it
---PLEASE
+--deleted

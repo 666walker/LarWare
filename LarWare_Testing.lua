@@ -64,4 +64,4 @@ Player_JumpPower:NewSlider("Jump Power", "Jump", 300, 50, function(Value)
 
     end
 end)
---not working
+--please just function
